@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Competition Hovercraft
 
 <p><img src="media/hover_closepass.gif" alt="Rendered hovercraft with red skirt, lift fan, and ducted thrust fan with twin rudders" width="760"></p>
