@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Competition Hovercraft
 
 <p><img src="media/hover_closepass.gif" alt="Rendered hovercraft with red skirt, lift fan, and ducted thrust fan with twin rudders" width="760"></p>
@@ -94,3 +95,6 @@ Built with the 16 members of Team Driftstorm, ASME at Penn State. Skirt study co
 ---
 
 Part of [Xiang Wang's engineering portfolio](https://xiang-wang-us.github.io). [LinkedIn](https://linkedin.com/in/xiangwang102) · [Email](mailto:20o5xwang@gmail.com)
+=======
+# Competitive_Hovercraft
+>>>>>>> 449394452ad41ad98177624a5ed9d7054954d049
