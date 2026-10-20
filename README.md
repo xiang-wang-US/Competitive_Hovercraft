@@ -22,7 +22,7 @@ I led design for a 16 person team building a radio controlled hovercraft on a $1
 
 ## Brief and constraints
 
-Every team received the same MT2204 2300 KV motors, 40 A ESCs, and 11.1 V LiPo battery, and could not buy stronger replacements. Everything else had to fit in $100 across two semesters, and teams had to model their own reference parts instead of importing them. The competition scored drag races and a precision course.
+Every team received the same MT2204 2300 KV motors, 40 A ESCs, and 11.1 V LiPo battery, and could not buy stronger replacements. Everything else had to fit in $100 across two semesters, and teams had to model their own reference parts instead of importing them. The competition had a drag races and a precision driving course.
 
 The team settled on one chassis, one lift fan, one thrust fan with twin rudders, and one skirt. I built the reference models for the motor and skirt and documented the wiring diagram.
 
@@ -34,7 +34,7 @@ The team settled on one chassis, one lift fan, one thrust fan with twin rudders,
 
 The skirt holds the air cushion, so it decides whether the craft hovers at all. With Logan Alefantis I scored eight materials against ten criteria. The weights favored air and water impermeability, abrasion resistance, durability, and weight, and pushed UV and weather resistance down because the craft runs indoors for short periods.
 
-Polyurethane coated nylon scored 157.4 of a possible 171, about 10% ahead of PVC coated fabric and Hypalon. It was also the lightest and cheapest of the top three, and ripstop versions keep a tear from spreading.
+Nylon scored 157.4 of a possible 171, about 10% ahead of PVC coated fabric and Hypalon. It was also the lightest and cheapest of the top three, and ripstop versions keep a tear from spreading.
 
 <p><img src="media/images/skirt_trade_study.png" alt="Weighted scores for eight candidate skirt materials" width="760"><br><sub>Weighted scores for eight candidate skirt materials</sub></p>
 
@@ -46,7 +46,7 @@ Polyurethane coated nylon scored 157.4 of a possible 171, about 10% ahead of PVC
 
 A vector sketch of the thrust stream across a deflected rudder showed the turning force peaks at 45 degrees. I capped rudder travel at plus or minus 45 degrees, so the servos and linkage only had to cover that range.
 
-The plastic rudder pins kept breaking, so titanium rods replaced them for about $7. I also designed a custom servo horn with the spline modeled in, replacing the supplied horn to save parts, assembly, and weight. The spline was too small to measure directly, so I took a reference diameter and drew the teeth by hand in CAD. FDM printers could not hold the teeth, so the horn needed resin printing.
+The plastic rudder pins kept breaking, so titanium rods replaced them for about $7. I also designed a custom servo horn with the spline modeled in, replacing the supplied horn to save parts, assembly, and weight. The spline was too small to measure directly, so I took a reference diameter and drew the teeth by hand in CAD. FDM printers could not hold the manufacture the outline of the teeth, so the horn used resin printing.
 
 <table>
 <tr><td width="50%" valign="top"><img src="media/images/rudder_vector.jpg" alt="Thrust deflection sketch used to set travel"><br><sub>Thrust deflection sketch used to set travel</sub></td><td width="50%" valign="top"><img src="media/images/rudder_limits.jpg" alt="Rudders at the 45 degree limit"><br><sub>Rudders at the 45 degree limit</sub></td></tr>
@@ -94,6 +94,4 @@ Built with the 16 members of Team Driftstorm, ASME at Penn State. Skirt study co
 ---
 
 Part of [Xiang Wang's engineering portfolio](https://xiang-wang-us.github.io). [LinkedIn](https://linkedin.com/in/xiangwang102) · [Email](mailto:20o5xwang@gmail.com)
-=======
-# Competitive_Hovercraft
->>>>>>> 449394452ad41ad98177624a5ed9d7054954d049
+
